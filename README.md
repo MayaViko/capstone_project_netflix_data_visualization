@@ -1,4 +1,4 @@
-# capstone_project_netflix_data_visualization
+# Capstone_project_netflix_data_visualization
 
 This is my project made on course of Data Visualization by Codecademy. The premise is that fictional financial analysts at Yahoo Finance! would like some visualizations for a stock profile of Netflix. The aim of the project was to study, visualize, analyse and plot data.
 
